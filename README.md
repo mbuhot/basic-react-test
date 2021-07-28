@@ -1,3 +1,12 @@
+# React Basics
+
+Build an application with React that does the following:
+
+1. Shows the current value of a counter, initially 0
+2. Has an increment button - clicking the increment button should increase the counter by 1
+3. Has a decrement button - clicking the decrement button should decrease the counter by 1
+4. Has a reset button - clicking the reset button should set the counter back to 0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
